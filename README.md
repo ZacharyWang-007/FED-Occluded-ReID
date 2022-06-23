@@ -6,10 +6,24 @@ FED: Official Pytorch implementation of [Feature Erasing and Diffusion Network f
   <img src="Figures/Structure.png">
  </div>
  
+ ## Experiment Results on Holistic and Occluded Person ReID Datasets
+ <div align="center">
+  <img src="Figures/Result1.png" width="400px"/>
+ </div>
+ 
+ <div align="center">
+  <img src="Figures/Result2.png" width="400px"/>
+ </div>
+ 
+ ## Retrieve Comparison between [TransReID](https://github.com/damo-cv/TransReID) 
+ <div align="center">
+  <img src="Figures/Comparison.png" width="700px"/>
+ </div>
+ 
+ 
  ## Requirements
  ### Installation
  Please refer to [TransReID](https://github.com/damo-cv/TransReID) 
  ### Dataset Preparation
- Download the official DukeMTMC
  
 
