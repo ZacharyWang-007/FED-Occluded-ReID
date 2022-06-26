@@ -30,7 +30,7 @@ FED: Official Pytorch implementation of [Feature Erasing and Diffusion Network f
  Please download pretrained [ViT backbone](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth) in advance.
  
  ## Model training and testing
- before training and testing, please update config file accordingly.  Around 1300G GPU memory is required. 
+ before training and testing, please update config file accordingly.  Around 13G GPU memory is required. 
  ~~~~~~~~~~~~~~~~~~
    python train.py 
  ~~~~~~~~~~~~~~~~~~
