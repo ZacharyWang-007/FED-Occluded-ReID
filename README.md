@@ -25,7 +25,7 @@ Pytorch implementation for the occluded person reid algorithm described in the p
  ### Installation
  Please refer to [TransReID](https://github.com/damo-cv/TransReID) 
  ### Dataset Preparation
- Please download Occluded-Duke dataset and [cropped patches](https://drive.google.com/file/d/1lYTBokHR8pkbjz_LPhZjh4ij8B-FI1LA/view?usp=sharing). Meanwhile place cropped patches into Occluded-Duke (just because of dataloader).
+ Please download Occluded-Duke dataset and [cropped patches](https://drive.google.com/file/d/18UuJ0E-Ej0ptNPDtjgb9zkXSg3Jw_5d5/view?usp=sharing). Meanwhile place cropped patches into Occluded-Duke (just because of dataloader).
  ### Pretrained Model Preparison
  Please download pretrained [ViT backbone](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth) in advance.
  
